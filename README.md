@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ChintanaLuu
 - 👀 I’m interested in video games, art, and creative projects.
-- 🌱 I’m currently studying for a Bachelor of IT - Games and Entertainment Design degree at the University of South Australia.
+- 🌱 I’m studying a Bachelor of IT - Games and Entertainment Design at the University of South Australia.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: luucy003@mymail.unisa.edu.au
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
